@@ -15,7 +15,7 @@
  
  With my experience in Django and DRF, I am confident in my ability to design and implement scalable and high-performance RESTful APIs for a wide range of applications. If you're looking for a developer who is passionate about staying up-to-date with the latest technologies and pushing the boundaries of what's possible with DRF, then look no further. Let's build something great together!**
 
-- 👯 If you are looking to collaborate, I am interested in working on projects that require a robust backend architecture, API development, and integration with third-party services. I have experience in working with different teams and project requirements, and I am always eager to learn new things and implement the latest technologies to solve complex problems...**
+- 👯 Looking to collaborate? I am interested in working on projects that require a robust backend architecture, API development, and integration with third-party services. I have experience in working with different teams and project requirements, and I am always eager to learn new things and implement the latest technologies to solve complex problems...**
 
 - 👨‍💻 All of my projects are available at [https://victorokolie.com](https://victorokolie.com)
 
@@ -31,15 +31,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorquest" alt="victorquest" /></a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorquest&show_icons=true&locale=en&layout=compact" alt="victorquest" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorquest&show_icons=true&locale=en" alt="victorquest" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorquest&" alt="victorquest" /></p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/victorokolie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victorokolie_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/victor okolie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor okolie" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20329489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20329489" height="30" width="40" /></a>
 <a href="https://discord.com/users/922048107099856957" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/922048107099856957" height="40" width="40" /></a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorquest&show_icons=true&locale=en&layout=compact" alt="victorquest" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorquest&show_icons=true&locale=en" alt="victorquest" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorquest&" alt="victorquest" /></p>
