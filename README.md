@@ -7,9 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/victorokolie_" target="blank"><img src="https://img.shields.io/twitter/follow/victorokolie_?logo=twitter&style=for-the-badge" alt="victorokolie_" /></a> </p>
 
-- 🔭 Currently, I am working on developing RESTful APIs using Django and Django REST Framework. I specialize in building secure, scalable, and maintainable backend architectures that support the needs of modern web applications..**
+- 🔭 Currently, I am working on developing RESTful APIs using Django and Django REST Framework. I specialize in building secure, scalable, and maintainable backend architectures that support the needs of modern web applications.
+ 
+ In terms of my technical skills, I have extensive experience in building RESTful APIs with Django and Django REST Framework. I have a strong understanding of database design, normalization, and optimization using PostgreSQL. I have worked with various authentication and authorization frameworks, including OAuth2 and JWT, and have implemented secure HTTPS connections using SSL certificates.**
 
-- 👯 If you are looking for a collaborator, I am interested in working on projects that require a robust backend architecture, API development, and integration with third-party services. I have experience in working with different teams and project requirements, and I am always eager to learn new things and implement the latest technologies to solve complex problems...**
+- 🌱 I am always keen to explore new technologies and expand my skillset, and currently, I am particularly interested in learning more about the advanced features and capabilities of Django REST Framework. I am excited to leverage DRF's powerful tools, such as viewsets, serializers, and generic views, to create efficient and robust APIs that can handle complex business logic and data interactions. Additionally, I am constantly looking for ways to optimize API performance, improve error handling, and enhance security measures using DRF's built-in features and extensions. 
+ 
+ With my experience in Django and DRF, I am confident in my ability to design and implement scalable and high-performance RESTful APIs for a wide range of applications. If you're looking for a developer who is passionate about staying up-to-date with the latest technologies and pushing the boundaries of what's possible with DRF, then look no further. Let's build something great together!**
+
+- 👯 If you are looking to collaborate, I am interested in working on projects that require a robust backend architecture, API development, and integration with third-party services. I have experience in working with different teams and project requirements, and I am always eager to learn new things and implement the latest technologies to solve complex problems...**
 
 - 👨‍💻 All of my projects are available at [https://victorokolie.com](https://victorokolie.com)
 
